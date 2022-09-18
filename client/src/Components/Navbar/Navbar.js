@@ -57,6 +57,7 @@ const Navbar = () => {
                 <NavbarUl>
                   <NavbarMenuList>Home</NavbarMenuList>
                   <NavbarMenuList>About</NavbarMenuList>
+                  <NavbarMenuList>Blog</NavbarMenuList>
                   <NavbarMenuList>Need a Website</NavbarMenuList>
                   <NavbarMenuList>Projects</NavbarMenuList>
                   <NavbarMenuList>Contact me</NavbarMenuList>

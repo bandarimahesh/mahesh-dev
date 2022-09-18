@@ -68,7 +68,7 @@ export const NavbarMenuList = styled.li`
   @media screen and (max-width: 700px) {
     display: none;
   }
-  :nth-child(5) {
+  :nth-child(6) {
     margin-right: 0;
   }
   &:hover {
